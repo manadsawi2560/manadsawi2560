@@ -6,6 +6,7 @@
 💡 Passionate about applying data & AI to create impactful real-world solutions  
 
 ---
+## 📫 Connect with Me
 ###  
 <div align="center">
   <a href="https://www.linkedin.com/in/manadsawi-sri" target="_blank">
@@ -73,7 +74,3 @@
 
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manadsawi-sri)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manadsawi.sri@gmail.com)  
