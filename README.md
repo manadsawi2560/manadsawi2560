@@ -62,9 +62,9 @@
 
 ## 🚀 Projects
 
-- [**ML Starter Template**](https://github.com/manadsawi-sri/ml-starter) — A reproducible ML pipeline template with TensorFlow, CI/CD, and experiment tracking  
-- [**Computer Vision Mini Project**](https://github.com/manadsawi-sri/cv-starter) — Image classification with ResNet & data augmentation  
-- [**SQL Analytics Project**](https://github.com/manadsawi-sri/sql-analytics-starter) — Data exploration with SQL + DuckDB + visualization  
+- [**ML Starter Template**](https://github.com/manadsawi2560/ml-starter) — A reproducible ML pipeline template with TensorFlow, CI/CD, and experiment tracking  
+- [**Computer Vision Mini Project**](https://github.com/manadsawi2560/cv-starter) — Image classification with ResNet & data augmentation  
+- [**SQL Analytics Project**](https://github.com/manadsawi2560/sql-analytics-starter) — Data exploration with SQL + DuckDB + visualization  
 - [**Hemoglobin Prediction Research**](#) — Master’s thesis on deep learning for conjunctival image analysis (public-safe version)
 
 ---
