@@ -1,7 +1,5 @@
 # Hi there, I'm Manadsawi 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Manadsawi+Srichok+-+AI+%7C+Data+Science)
-
 🎓 MSc Computer Science @ Kasetsart University (**DPST Scholar**)  
 🤖 Specializing in AI for imaging, data science, and reproducible research  
 📌 Open to AI Engineer, Data Scientist, Medical AI, and research-focused roles  
