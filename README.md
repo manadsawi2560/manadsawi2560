@@ -5,7 +5,6 @@
 📌 Open to AI Engineer, Data Scientist, Medical AI, and research-focused roles  
 💡 Passionate about applying data & AI to create impactful real-world solutions  
 
----
 ## 📫 Connect with Me
 
 <div align="center">
