@@ -1,6 +1,7 @@
 # Hi there, I'm Manadsawi 👋
 
 🎓 MSc Computer Science @ Kasetsart University (**DPST Scholar**)  
+🎓 BSc Physics @ SUT (**DPST Scholar**)  
 🤖 Specializing in AI for imaging, data science, and reproducible research  
 📌 Open to AI Engineer, Data Scientist, Medical AI, and research-focused roles  
 💡 Passionate about applying data & AI to create impactful real-world solutions  
