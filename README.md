@@ -63,7 +63,7 @@
 ## 🚀 Projects
 
 - [**ML-starter (UCI Heart Disease)**](https://github.com/manadsawi2560/ml-starter) — A reproducible ML pipeline template for the UCI Heart Disease dataset — with CI/CD, experiment tracking, and production‑ready structure. 
-- [**Computer Vision Mini Project**](https://github.com/manadsawi2560/cv-starter) — Image classification with ResNet & data augmentation  
+- [**Computer Vision Mini Project (BloodMNIST)**](https://github.com/manadsawi2560/cv-starter) — BloodMNIST classification with MobileNetV2, transfer learning, and fine-tuning — 93.74% accuracy.  
 - [**SQL Analytics Project**](https://github.com/manadsawi2560/sql-analytics-starter) — Data exploration with SQL + DuckDB + visualization  
 - [**Hemoglobin Prediction Research**](#) — Master’s thesis on deep learning for conjunctival image analysis (public-safe version)
 
